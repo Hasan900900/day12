@@ -1,0 +1,7 @@
+.container {
+    height: 100vh;
+    width: 10vw;
+    background-color: brown;
+    transition: width 0.1s;
+    /* Smooth transition effect */
+}
